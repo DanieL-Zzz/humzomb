@@ -1,0 +1,14 @@
+
+
+
+body {
+    margin:         auto;
+    background:     #060606;
+}
+
+canvas {
+    vertical-align: middle;
+    position:       absolute;
+}
+
+
